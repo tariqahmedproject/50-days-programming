@@ -111,6 +111,29 @@
 
 [Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/25.py)
 
+# Program No 23
+**23. Write a program that keeps on accepting a number from the user until the user enters Zero. Display the sum and average of all the numbers.**
+
+[Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/47.py)
+
+# Program No 24
+**24.	Extract username from a given email.**
+
+[Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/50.py)
+
+# Program No 25
+**25.	Count the frequency of a particular character in a provided string. Eg 'hello how are you' is the string, the frequency of h in this string is 2.**
+
+[Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/51.py)
+
+
+
+
+
+
+
+
+
 
 
 
