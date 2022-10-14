@@ -126,6 +126,39 @@
 
 [Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/51.py)
 
+# Program No 26
+**26.	Write a program which can remove a particular character from a string.**
+
+[Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/54.py)
+
+
+# Program No 27
+**27.	Write a python program to remove all the duplicates from a list.**
+
+[Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/56.py)
+
+# Program No 28
+**28.	Write a python program to reverse a list**
+
+[Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/59.py)
+
+# Program No 29
+**29.	Write a python program to search a given number from a list.**
+
+[Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/60.py)
+
+# Program No 30
+**30.Create 2 lists from a given list where 1st list will contain all the odd numbers from the original list and the 2nd one will contain all the even numbers**
+
+[Click Here for Code ](https://github.com/tariqahmedproject/100-Days-Programming-/blob/main/65.py)
+
+
+
+
+
+
+
+
 
 
 
